@@ -1,7 +1,7 @@
 
 import React from "react";
 import Hero from "./components/Hero/Hero";
-import Services from "./components/Services/Services";
+import Services from "./components/Services/services";
 import Banner from "./components/Banner/Banner";
 import Subscribe from "./components/Subscribe/Subscribe";
 import Banner2 from "./components/Banner/Banner2";
